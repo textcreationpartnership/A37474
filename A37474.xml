@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Right Honourable Henry Earl of Warrington, Lord Delamere, to the Grand Jury at Chester, April 13, 1692</title>
+            <author>Warrington, Henry Booth, Earl of, 1652-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37474</idno>
+            <idno type="STC">Wing D883</idno>
+            <idno type="STC">ESTC R24883</idno>
+            <idno type="EEBO-CITATION">08642194</idno>
+            <idno type="OCLC">ocm 08642194</idno>
+            <idno type="VID">41511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1255:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Right Honourable Henry Earl of Warrington, Lord Delamere, to the Grand Jury at Chester, April 13, 1692</title>
+                  <author>Warrington, Henry Booth, Earl of, 1652-1694.</author>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:41511:1"/>
+            <pb facs="tcp:41511:1" rendition="simple:additions"/>
+            <p>The Lord <hi>DELAMERE</hi>'s SPEECH TO THE Grand Jury at CHESTER, <hi>APRIL</hi> 13. 1692.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:41511:2"/>
+            <pb facs="tcp:41511:2"/>
+            <p>THE SPEECH OF THE RIGHT HONOURABLE HENRY Earl of WARRINGTON, Lord Delamere, TO THE Grand Jury at Cheſter. <hi>APRIL</hi> 13. 1692.</p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41511:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:41511:3"/>
+            <head>THE SPEECH OF THE RIGHT HONOURABLE HENRY Earl of WARRINGTON, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen of the Jury,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Preſervation of the Publick Peace, is the Occa<g ref="char:EOLhyphen"/>ſion that hath called us to<g ref="char:EOLhyphen"/>gether at this time; in which no man can be re<g ref="char:EOLhyphen"/>miſs or negligent, when he conſiders, that his parti<g ref="char:EOLhyphen"/>cular Intereſt, as well as his Duty, doth indi<g ref="char:EOLhyphen"/>ſpenſably oblige him to do what in him lies to ſupport it. In order to this, that which is now more eſpecially expected from us at this time, is,</p>
+            <pb n="2" facs="tcp:41511:4"/>
+            <p n="1">1. To Enquire into the Neglects of thoſe in whom the Law hath repoſed any Truſt: And,</p>
+            <p n="2">2. To diſcover thoſe who have broken or violated the Laws; that ſuch Criminals may be brought to condign Puniſhment.</p>
+            <p>And ſince the Execution of the Laws is our proper buſineſs; and that the Laws ſhould have their courſe is abſolutely neceſſary to the Being of the Government; therefore it may not be impertinent (as I conceive) at this time, to ſay ſomething of the Nature of Govern<g ref="char:EOLhyphen"/>ment, and particularly of our own Conſtituti<g ref="char:EOLhyphen"/>on; or rather, it ſeems neceſſary to take all oc<g ref="char:EOLhyphen"/>caſions to explain it, conſidering what variety of Opinions there are amongſt us, of that which is, or ought to be, the Supreme Autho<g ref="char:EOLhyphen"/>rity or Power in <hi>England.</hi>
+            </p>
+            <p>Many Wiſe and Learned men have written of the Nature of Government, and given ex<g ref="char:EOLhyphen"/>cellent Definitions of it; but of all others, the Learned <hi>Aquinas</hi> ſeems to me to have done it in the feweſt and plaineſt words; ſays he, <q>It is a rational Ordinance for the Advancing of the Publick Good.</q> And next to him is <hi>Plato,</hi>
+               <pb n="3" facs="tcp:41511:4"/>whoſe words are theſe; <q>Government, or Law, ſays he, is to Preſerve the huge and indigeſt<g ref="char:EOLhyphen"/>ed Lump of a Multitude; and to bring all Diſorder into Proportion, ſo as to become a Harmony.</q>
+            </p>
+            <p>Several others have ſpoken to the ſame pur<g ref="char:EOLhyphen"/>poſe, which I omit, becauſe I will be as little tedious as I can: But two things are obſerva<g ref="char:EOLhyphen"/>ble from hence.</p>
+            <p n="1">1. That Order and Peace is, or ought to be, the end of every Government.</p>
+            <p n="2">2. That in every Government there is ſome particular Principle that runs through the whole Scheme of that Conſtitution; and as that Prin<g ref="char:EOLhyphen"/>ciple is followed or neglected, ſo accordingly it goes well or ill with the Publick; that is, When thoſe who are intruſted with the Execu<g ref="char:EOLhyphen"/>tive Power, do purſue that Principle, every thing moves regularly, and the Government is firm and ſtable; but when they ſteer by any other Meaſures, the State doth unavoidaby fall into Diſorders and Convulſions: So that who<g ref="char:EOLhyphen"/>ever he be that is placed at the Head of the Go<g ref="char:EOLhyphen"/>vernment, if he deſires to have the Hearts and Prayers of his People whilſt he lives, and that After-Ages ſhall bleſs his Memory, it is neceſ<g ref="char:EOLhyphen"/>ſary.</p>
+            <pb n="4" facs="tcp:41511:5"/>
+            <p n="1">1. That, in general, he reſolve to Govern well: And</p>
+            <p n="2">2. Throughly and rightly to appriſe himſelf of that Principle that is the Soul of the Go<g ref="char:EOLhyphen"/>vernment; or at leaſt that he be adviſed by ſuch as are moſt likely to know it, and will give him faithful Counſel; otherwiſe he will be like a Traveller, that in the Night miſſes his way upon ſome large Plain, wandring he knows not whither, and is more like to meet with ſome diſaſter, than to find his way.</p>
+            <p>Having ſaid this, it is natural for you to ex<g ref="char:EOLhyphen"/>pect that I ſhould tell you, what that Principle is, which is the life and foundation of this Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>If I am not much miſtaken, and I am verily perſwaded that here I am not, I take it to be this. 1. That every Subject of <hi>England</hi> hath ſo clear a Property in his Life, Goods, and Eſtate, and every thing elſe which he lawfully Poſſeſſes, that they, nor any of them, can be taken from him, nor ought he to be diſturbed in the enjoyment of them, without his voluntary Conſent, or for ſome Offence againſt the Law. 2. And in the next place, That there be not a failure of Juſtice, that is, that no man be left without Remedy,
+<pb n="5" facs="tcp:41511:5"/>where his Right is concerned, and that every Criminal be Puniſhed according to the demerits of his Offence.</p>
+            <p>I am apt to believe, that every man will think, that this is very agreeable to natural Reaſon, and then I do not ſee how it can be inconſiſtent with the Prerogative of the Crown; though I know that not very long ſince, and I fear yet, there are ſome who carry the Prerogative much higher than it ought, in placing it above the Law: But no<g ref="char:EOLhyphen"/>thing, ſave the iniquity of the times, and the de<g ref="char:EOLhyphen"/>pravity of ſuch mens Manners, could ſupport or give countenance to ſo ſenſeleſs a thought; for they are very ignorant of the nature of Pre<g ref="char:EOLhyphen"/>rogative, if they think it is a Power to do hurt, and not to do good. Certainly the King's Pre<g ref="char:EOLhyphen"/>rogative is to help and relieve the People, where the edge of the Law is too ſharp and keen; and not a Power by which he may Oppreſs and Deſtroy his Subjects. Men are to be Governed by a Power that is guided by Reaſon, unleſs we can ſuppoſe that they have no more under<g ref="char:EOLhyphen"/>ſtanding, and are of no greater value, than the Beaſts that periſh.</p>
+            <pb n="6" facs="tcp:41511:6"/>
+            <p>It was ſaid by one who was a very compe<g ref="char:EOLhyphen"/>tent Judge in the caſe, as I remember, it was Sir <hi>John Forteſcue,</hi> That it is a greater Power in a Prince to be reſtrained by Law from Oppreſ<g ref="char:EOLhyphen"/>ſing, than to have an Abſolute Regal Power. And ſays another, The Way of Governing muſt be both Right and Clear, as well as is the End; and how this can be expected, when a King is guided by no other Rule, than that of his un<g ref="char:EOLhyphen"/>bounded Will and Pleaſure, I do not ſee, any more than a man can depend upon the Weather.</p>
+            <p>Do not all examples of it that ever were, prove, that Abſolute Power and Oppreſſion are inſeparable, and as naturally proceed the one from the other, as the Effect doth from the Cauſe? 'Tis a Riddle to me, how that Prince can be called <hi>God's Ordinance,</hi> who aſſumes a Power above what the Law hath inveſted him with, and uſeth it to the Grieving and Op<g ref="char:EOLhyphen"/>preſſing of his Subjects: May not the Plague, Famine, or Sword, as well be called <hi>God's Or<g ref="char:EOLhyphen"/>dinance,</hi> ſince one, no leſs than the other, is ſent by him for the Puniſhment of that People whom he ſo viſits?</p>
+            <pb n="7" facs="tcp:41511:6"/>
+            <p>We may reaſonably ſuppoſe, that Order and Peace are much rather the end of Government, than Oppreſſion and Violence, becauſe <hi>God is a God of order;</hi> and when he ſent the <hi>greateſt Bleſſing</hi> upon Earth, it was <hi>Peace;</hi> and though God was often very wroth with the Kings of <hi>Iſrael</hi> and <hi>Judah</hi> for their Idolatries, yet the Inno<g ref="char:EOLhyphen"/>cent Blood they ſhed, and the Violence and Oppreſſion which they committed, provoked him more highly, and with his ſevereſt Judgments he always teſtified his Diſpleaſure againſt it.</p>
+            <p>I could run out into a large Diſcourſe upon this Subject, but I will ſtop here, becauſe I am perſwaded, that what I have already ſaid, is ſufficient to convince any one, who is unprejudi<g ref="char:EOLhyphen"/>ced. That an <hi>Abſolute Power</hi> is ſo far from being the <hi>Right</hi> of the King of <hi>England,</hi> that the exerciſe of ſuch a Power is <hi>Unlawful</hi> in any King.</p>
+            <p>I know very well, that in the <hi>late Reigns</hi> this Doctrine would not have been endured; to have ſaid then leſs than this, would have coſt a man his Head: For whoever would not then
+<pb n="8" facs="tcp:41511:7"/>comply with <hi>Arbitrary Power,</hi> was called a <hi>Factious man,</hi> and an <hi>Oppoſer</hi> of the Government; but is it not nonſenſe, or very near a-kin to it, to call that Seditious, that is for bringing things into Order, and for maintaining the Laws and ſupporting the Government? Arbi<g ref="char:EOLhyphen"/>trary deſires never did any King good, but have ruined many. It ſhook King <hi>Charles</hi> the <hi>Se<g ref="char:EOLhyphen"/>cond's</hi> Throne, and tumbled down his next Suc<g ref="char:EOLhyphen"/>ceſſor; and though ſuch Kings are left without excuſe when Ruined; yet I may ſay, they are not only in the fault, for their overthrow is in a great meaſure occaſioned by thoſe who Preach up, and adviſe the King to Arbitrary Power.</p>
+            <p>Did not other People cocker up, and cheriſh <hi>Arbitrary Notions</hi> in Kings minds, though ſuch Conceptions might ſometimes get into their heads, yet they would never fructifie, nor come to perfection, if they were not cultivated by <hi>Paraſites,</hi> who make their Court that way, in hopes to raiſe themſelves, tho with the hazard of their Maſter's Crown: A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> befel the late King <hi>James,</hi> whoſe Male Adminiſtration render<g ref="char:EOLhyphen"/>ed him unmeet to ſway the Scepter: And I am very well ſatisfied that the <hi>Judgment</hi> upon him
+<pb n="9" facs="tcp:41511:7"/>was <hi>juſt;</hi> for unleſs a People are decreed to be miſerable, which God Almighty will never do, except thereto very highly provoked by their Sins; certainly he will never ſo tye up their hands, that they ſhall not be allowed to uſe them, when they have no other way to help themſelves.</p>
+            <p>Several Artifices were made uſe of in the <hi>Two late</hi> Reigns, for the introducing <hi>Arbitrary Power</hi> and <hi>Popery;</hi> one of which was to inſinu<g ref="char:EOLhyphen"/>ate into the minds of the People, that the <hi>Suc<g ref="char:EOLhyphen"/>ceſſion</hi> of the Crown was the <hi>Chief Pillar</hi> of the Government; and that the breaking into it upon any pretence whatſoever, was no leſs than a <hi>Diſſolution</hi> of the <hi>whole Conſtitution,</hi> and nothing but Diſorder and Confuſion could enſue.</p>
+            <p>This Doctrine was boldly then Preached up, and prevailed with many, and obtained no leſs than if the Crown had been ſetled in that Family by an Ordinance or Decree dropt down from Heaven, and that every one of that Line or Race had been diſtinguiſhed from the reſt of Mankind, by more than ordinary vir<g ref="char:EOLhyphen"/>tues and endowments of Mind and Body. But we know not of any ſuch <hi>Divine Revelation,</hi>
+               <pb n="10" facs="tcp:41511:8"/>and happy had it been for this Nation, if that Family had been ſo ſignal for its Juſtice and its Piety; we might then have prayed, That there might not want one of them to ſit upon this Throne to all Ages. How much this Nation is obliged to that Family, we ve<g ref="char:EOLhyphen"/>ry well remember; for the Wounds they gave us, are not yet healed.</p>
+            <p>
+               <hi>Election</hi> was certainly the <hi>Original</hi> of <hi>Succeſ<g ref="char:EOLhyphen"/>ſion;</hi> for as the living more ſafely, and with the freer Enjoyment of their Goods, was the Original Cauſe that people aſſociated them<g ref="char:EOLhyphen"/>ſelves into a Nation or Kingdom; ſo for the better attaining that End, they did ſet over themſelves the beſt and wiſeſt of their brethren to be their Rulers and Governours; and this Adminiſtration was truſted in one or more hands, according to the Temper and Diſpoſi<g ref="char:EOLhyphen"/>tion of the Perſon; in which Authority they continued either for their lives, or for one year, or for ſome other ſtated Period of time.</p>
+            <p>Where the Government was under a King, he uſually held it for life; and then upon his Deceaſe the people proceeded to a <hi>New Election,</hi>
+               <pb n="11" facs="tcp:41511:8"/>till at laſt it fell into the hands of ſome very excellent Perſon, who having more than or<g ref="char:EOLhyphen"/>dinarily deſerved of his Countrey, the people, as well in Gratitude to him, as believing they could not expect a better Choice, than in the Branches that would grow out of ſo excellent a Stock, entailed that Dignity upon him and his Poſterity. And this ſeems to be the moſt Natural and Lawful Riſe of Succeſſion.</p>
+            <p>I do not deny, but ſome Succeſſions have ariſen from Force, but that was never laſting; for it could not ſubſiſt, or ſeem Lawful, any longer than there was a Force to ſupport it.</p>
+            <p>Now when Princes come to the Crown by the firſt way of Succeſſion, I mean, by the <hi>Conſent</hi> and <hi>Approbation</hi> of the <hi>People,</hi> does not that plain<g ref="char:EOLhyphen"/>ly imply, That they ought to uſe that Power for the Good and Advantage of their Subjects, and not to their hurt; and enjoy the Crown only upon that condition? No man would ever ſuffer a Monſter to inherit his Eſtate; and Kings are no more exempted from the Acci<g ref="char:EOLhyphen"/>dents of Human Nature, than their meaneſt Subjects; and it is every days practice in pri<g ref="char:EOLhyphen"/>vate
+<pb n="12" facs="tcp:41511:9"/>Families, to exclude thoſe that will waſte their Eſtates, and ruin the Family; and if the reaſon will there hold good, then it is ſo much the ſtronger in the Deſcent of the Crown, by how much the good of the whole Kingdom is to be preferred to that of one Family.</p>
+            <p>Nor is <hi>Succeſſion</hi> ſo very Ancient in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as ſome people may apprehend: Till the time of <hi>William</hi> the Firſt, commonly, though falſly called the Conqueror, it was look'd upon as a very precarious Title; the next in Succeſſion could make but little reckoning on the Crown, further than his good Inclinations and Sufficiencies to ſway the Scepter, did recommend him to the Af<g ref="char:EOLhyphen"/>fections of the People. It being then very common, not only to break into the Suc<g ref="char:EOLhyphen"/>ceſſion, but even to ſet aſide all that Family and Line, whenever it was known that the Publick might ſuffer by their being at the Head of the Government; the Publick Good being the only Rule and Conſideration that go<g ref="char:EOLhyphen"/>verned that Point.</p>
+            <pb n="13" facs="tcp:41511:9"/>
+            <p>
+               <hi>William</hi> the <hi>Firſt</hi> declared upon his Death<g ref="char:EOLhyphen"/>bed (and that is a time when men do ſeldom prevaricate), That he did not poſſeſs the Crown by an Hereditary Right. <hi>William</hi> the <hi>Second</hi> muſt be allowed by all people to come in by <hi>Election,</hi> becauſe <hi>Robert,</hi> his Elder Brother, was alive, and ſurvived him. Next to him was <hi>Henry</hi> the <hi>Firſt,</hi> who alſo came in by <hi>Election,</hi> becauſe his Eldeſt Brother <hi>Robert</hi> was yet alive; and this <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> in his Charter acknowledged that he owed his Crown to the Mercy of God, and the Common Council of the Realm. King <hi>Stephen, Henry</hi> the <hi>Second, Richard</hi> the <hi>Firſt,</hi> and King <hi>John,</hi> all came in by <hi>Election;</hi> ſo that till <hi>Henry</hi> the <hi>Third,</hi> there is ſcarce to be found any Preſi<g ref="char:EOLhyphen"/>dent of <hi>Succeſſion;</hi> and ſince his Reign, the Succeſſion hath been broken into ſeveral times, and the Crown ſhifted from one Family to ano<g ref="char:EOLhyphen"/>ther <hi>by Act of Parliament;</hi> and being ſo tranſ<g ref="char:EOLhyphen"/>ferred by that Authority, it is the greateſt proof that can be, that <hi>Succeſſion</hi> is a very fee<g ref="char:EOLhyphen"/>ble <hi>Title,</hi> without ſomething elſe to <hi>ſupport it,</hi> and I think I may ſay, Defective.</p>
+            <pb n="14" facs="tcp:41511:10"/>
+            <p>For, ſays one of great Authority, never did any take pains to obtain an <hi>Act of Parliament,</hi> to ſettle his Inheritance on his Heirs, except he were an <hi>Alien,</hi> or <hi>Illegiti<g ref="char:EOLhyphen"/>mate;</hi> and therefore conſidering, that by vertue of an <hi>Entail</hi> of the Crown by Act of Parliament in <hi>Henry</hi> the <hi>Seventh</hi>'s time it is, that the <hi>Four laſt Kings</hi> have ſwayed this Scepter, I could never underſtand that Divine Right that was by ſome ſtampt upon the Title to the Crown, or that the Succeſſion was preferable to the Publick Good.</p>
+            <p>I have endeavoured to explain this Point the more, by reaſon that ſome <hi>object</hi> a<g ref="char:EOLhyphen"/>gainſt the Sufficiency of this King's Ti<g ref="char:EOLhyphen"/>tle to the Crown, becauſe the Succeſſion was broke through, to let him into the Throne; as if nothing could give a King a good Title to the Crown, but Succeſ<g ref="char:EOLhyphen"/>ſion. For my part, I never ſaw any rea<g ref="char:EOLhyphen"/>ſon to be of that Opinion; and if there be nothing but the <hi>Interruption</hi> of the Suc<g ref="char:EOLhyphen"/>ceſſion to object to this King's Right, if
+<pb n="15" facs="tcp:41511:10"/>he continue to govern according to the Principle upon which the Crown was gi<g ref="char:EOLhyphen"/>ven him, and according to the good and laudable Cuſtoms of the Realm, I think every man that wiſhes well to the Intereſt of his Countrey, ought to bleſs God for this <hi>Revolution.</hi>
+            </p>
+            <p>In my poor opinion, I do not appre<g ref="char:EOLhyphen"/>hend, that a King that comes to the Crown by <hi>Election,</hi> ſhould think worſe of his Ti<g ref="char:EOLhyphen"/>tle, than if he had come in by <hi>Succeſſi<g ref="char:EOLhyphen"/>on,</hi> but rather the more ſecurely; becauſe the People are under a more immediate Obli<g ref="char:EOLhyphen"/>gation to ſtand by, and ſupport the King they have Elected, than any other that takes the Crown by Succeſſion; nor that the people ſhould ſuſpect that they hold their Properties and Rights more pre<g ref="char:EOLhyphen"/>cariouſly under a King that is <hi>Elective,</hi> than under one that claims the Crown by <hi>Succeſſion,</hi> but rather the contrary; be<g ref="char:EOLhyphen"/>cauſe it more highly imports him, as well in point of Gratitude, as in that of Po<g ref="char:EOLhyphen"/>licy, to preſerve the good opinion of the
+<pb n="16" facs="tcp:41511:11"/>people, by Governing well, than if his Title was by Succeſſion; for I am far from believing that a King who comes in by Election, may make more bold with the Laws, than he that claims un<g ref="char:EOLhyphen"/>der any other Title; or that his Right to the Crown continues any longer, than by his Adminiſtration it doth appear that his Intereſt is the ſame with that of the Nation.</p>
+            <p>The next deceit by which the Nation was to be <hi>gull'd</hi> into <hi>Popery</hi> and <hi>Slavery,</hi> was by fomenting <hi>Diviſions</hi> amongſt <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> and eſpecially about the Terms of Communion, making them ſo ſtrict and narrow, as to exclude the greateſt part of the Proteſtants in <hi>England,</hi> and <hi>Nine parts in Ten,</hi> of the reſt in the world.</p>
+            <p>That this was not to promote God's Glory, and the Salvation of mens Souls, but to ſerve ſome new Deſign, is clear to me from ſeveral Reaſons.</p>
+            <pb n="17" facs="tcp:41511:11"/>
+            <p>
+               <hi>Firſt,</hi> Becauſe the Laws againſt <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> were ſtretched and executed be<g ref="char:EOLhyphen"/>yond their genuine and natural Intent or Conſtruction: Where fair Play is intended, ſuch Tricks are altogether need leſs; but daily experience proves, that when they are made uſe of, ſome o<g ref="char:EOLhyphen"/>ther thing is deſigned, than what is pre<g ref="char:EOLhyphen"/>tended. True Religion needs no ſuch methods to ſupport it the nature of which is Peace and Charity; and be<g ref="char:EOLhyphen"/>ſides, ſuch forced Conſtructions, being nothing leſs than <hi>ſummum Jus,</hi> are ab<g ref="char:EOLhyphen"/>horred by our Laws, and are looked up<g ref="char:EOLhyphen"/>on no leſs than <hi>ſumma Injuria,</hi> the higheſt Injuſtice.</p>
+            <p>
+               <hi>Secondly,</hi> The Second Reaſon for my O<g ref="char:EOLhyphen"/>pinion is, becauſe that ſeveral Laws were put in execution againſt the <hi>Diſſenters,</hi> which were plainly and directly made for other purpoſes; by which the <hi>Law it ſelf ſuffered Violence;</hi> and ſo it became evident to every man that had a mind
+<pb n="18" facs="tcp:41511:12"/>to ſee, that ſome foul Deſign, and not the <hi>Church,</hi> was at the bottom of the buſineſs.</p>
+            <p>
+               <hi>Thirdly,</hi> Another Reaſon is this, Be<g ref="char:EOLhyphen"/>cauſe more Diligence and Care was employed to Puniſh People for <hi>Non<g ref="char:EOLhyphen"/>conformity,</hi> than to Reform their Lives and Manners: For if a man were ne<g ref="char:EOLhyphen"/>ver ſo openly Wicked and Debauched, and very ſcarce, if ever, ſaw the in<g ref="char:EOLhyphen"/>ſide of a Church, yet if he could talk loud, and ſwagger bravely for the <hi>Church,</hi> and ſtorm againſt, and pull the <hi>Diſſen<g ref="char:EOLhyphen"/>ters</hi> to pieces, he was cry'd up by all means, for a good Son of the Church, an honeſt man, and truly affected to the Government: Whilſt thoſe who could not come up to all the Ceremonies en<g ref="char:EOLhyphen"/>joined in the <hi>Rubrick,</hi> though their lives in all other reſpects were upright, and their converſations unblameable, yet were called Villains and Rogues, and Ene<g ref="char:EOLhyphen"/>mies to the Government; as if the out<g ref="char:EOLhyphen"/>ſide and Ceremonious part of Religion
+<pb n="19" facs="tcp:41511:12"/>was more to be valued, than the ſub<g ref="char:EOLhyphen"/>ſtance and eſſence of it: Which puts me in mind of a paſſage I have met with in a Play, which is worthy your hearing, if I do not ſpoil it in the telling; it is in the Play called Sir COURTLY NICE, betwixt two Per<g ref="char:EOLhyphen"/>ſons, one is called Mr. <hi>Hothead,</hi> a very Idle Profligate Fellow, but who yet ſets up for a great Son of the Church, and cannot ſpeak or think with patience of any thing that inclines to Moderation; the other Perſon is called Mr. <hi>Teſtimony,</hi> as Rigid and Ridiculouſly ſqueamiſh on the other hand in his way; theſe Two falling into a great Diſpute about their Opinions, <hi>Hot-head</hi> out of his great Zeal to the Church, treats Mr. <hi>Teſti<g ref="char:EOLhyphen"/>mony</hi> with very ſcurrilous Language, and bitter Invectives againſt him and all Diſſenters; as that they were the plague of the State, and that he ho<g ref="char:EOLhyphen"/>ped to ſee them all Hang'd, and de<g ref="char:EOLhyphen"/>clares the mighty concern he hath for the Church: To which <hi>Teſtimony</hi> replies,
+<pb n="20" facs="tcp:41511:13"/>pray, Good Mr. <hi>Hot-head,</hi> forbear your indecent language, you are too rude in your Expreſſions; what need you trou<g ref="char:EOLhyphen"/>ble your ſelf ſo much about the Church, ſeeing you your ſelf never go to Church? To which <hi>Hot-head</hi> in great fury preſently makes anſwer, with a horrid Oath, What though I do not go to Church, yet I am for the Church? This, Gentlemen, I believe you, and every man elſe, can eaſily apply.</p>
+            <p>I could never yet meet with any precept in all the Goſpel, that doth juſtifie ſuch proceedings as I have mentioned; but there are ſeveral that expreſly condemn it. To me it ſeems altogether inconſiſtent with that Charity which is expected to be found in all thoſe that hope to enter into Heaven; and it ſeems to be little leſs than <hi>Teaching for Doctrines the Traditions of men,</hi> and to add to God's Word, which is prohibi<g ref="char:EOLhyphen"/>ted under no leſs a penalty, than that of Dam<g ref="char:EOLhyphen"/>nation.</p>
+            <pb n="21" facs="tcp:41511:13"/>
+            <p>I am far from being againſt Order and Decency to be obſerved in the Church, yet under that pretence we are not to for<g ref="char:EOLhyphen"/>get the Rule of Charity: And I cannot ſee wherefore <hi>thoſe ſhould be terms of Com<g ref="char:EOLhyphen"/>munion, that are not terms of Salvation.</hi> I was always of Opinion, That it would never go well with <hi>England,</hi> till every man might Worſhip God in his own way; for nothing can be more unreaſonable than to expect, that a man ſhould believe otherwiſe than according to the conviction that is upon him, or that one man's Opinion ſhould be a Rule or Guide to another man's Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>And therefore I cannot but wonder at thoſe who take offence at the <hi>late Act</hi> of <hi>Indulgence;</hi> which tends ſo much to our Peace, by quieting the Minds of the People as to their Religion, which hath ever been the handle to our inteſtine Troubles; the <hi>In<g ref="char:EOLhyphen"/>cendiaries</hi> of the State having ever made uſe of it as the beſt pretence to embroyl the Nation: And therefore I, for my part, do think that the <hi>Act of Indulgence</hi> was a neceſſary
+<pb n="22" facs="tcp:41511:14"/>and <hi>Pious Work,</hi> and cannot imagine why any man ſhould think that to be a diſſervice to the Church, that tends to the Peace of the Nation. They who do ſo, I muſt be<g ref="char:EOLhyphen"/>lieve, are not much concerned in the Cauſe of the Chureh and their Country, and care not what is uppermoſt, provided they can but make fair Weather for themſelves.</p>
+            <p>Therefore, Gentlemen, if any ſpeak to the diſadvantage of the <hi>Act of Indulgence,</hi> you ought to preſent them as diſaffected to the Government, and ſowers of the ſeeds of Diviſion in the State.</p>
+            <p>But I deſire to be rightly underſtood; I do not ſay this to diſſwade any man from coming to the Church; For I go conſtantly thither my ſelf, and I wiſh every body could do it as eaſily as I do; and I wonder 'tis otherwiſe, for I never yet heard any good reaſon for the pra<g ref="char:EOLhyphen"/>ctiſing the contrary. Yet I think un<g ref="char:EOLhyphen"/>leſs a man be ſatisfied in that way of Worſhip, it is better to keep away than to come; for otherwiſe it is to mock, and not to Serve God; and
+<pb n="23" facs="tcp:41511:14"/>on the other hand, it is no leſs a mocking of God, when a man from an over-aſſurance of the <hi>Gift of Prayer,</hi> ſhall adventure to Pray in Publick, without having before-hand well digeſted his Matter and Words; and therefore may happen to let fall crude and nauti<g ref="char:EOLhyphen"/>ous Expreſſions, ſuch as would be ridi<g ref="char:EOLhyphen"/>culous in private Converſation; for I am far from believing, that <hi>Nonſence</hi> can be the effect of <hi>Fervency,</hi> but ra<g ref="char:EOLhyphen"/>ther of <hi>Affectation,</hi> or ſomething that is very reproveable.</p>
+            <p>And here it will not be amiſs, or improper, to take notice of thoſe Per<g ref="char:EOLhyphen"/>ſons who go to no Church at all, but ſpend the <hi>Lords day,</hi> commonly called <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> (as the Statute hath it) in an Ale-houſe, or otherwiſe idle it away very unprofitably; againſt ſuch as theſe, was that Law of Twelve-Pence a Sunday intended; and were it duly put in Execution, a great deal of that diſho<g ref="char:EOLhyphen"/>nour that is done to God by ſuch Profanati<g ref="char:EOLhyphen"/>on, would be prevented, and the Poor would be relieved with leſs charge to their reſpect<g ref="char:EOLhyphen"/>ive
+<pb n="24" facs="tcp:41511:15"/>Pariſhes. I wonder the Petty Conſtables are not more careful to make true Preſent<g ref="char:EOLhyphen"/>ments at every Petty Seſſions, of thoſe who herein offend; the Glory of God, and their own Intereſt being ſo nearly, I may ſay, ſo immediately concerned.</p>
+            <p>The next thing I would recommend to you is, As far as in you lies, to ſuppreſs that horrible Sin of cuſtomary Swearing, whereby the Tre<g ref="char:EOLhyphen"/>mendous Name of God is every day Blaſ<g ref="char:EOLhyphen"/>phemed.</p>
+            <p>It is too true, that ſcarce any man when Provoked, or in Paſſion, has guard enough over himſelf to prevent his taking the Holy Name of God into his Mouth; and if any of us fall into that ſad misfortune, we ought ſolemnly to beg forgiveneſs of it: But yet that whereby God's Honour ſuffers moſt, is cuſtomary Swearing; when men do not think they expreſs themſelves handſomely without an horrible Oath, or more, to fringe off their Sentences. It is ſuch a daring fami<g ref="char:EOLhyphen"/>liarity with God Almighty, as no man would allow to his beſt Friends.</p>
+            <pb n="25" facs="tcp:41511:15"/>
+            <p>I believe there is not any of you, Gentle<g ref="char:EOLhyphen"/>men, but would be very angry to have your own Names uſed upon every ſlight and trivial occaſion; and if ſo, I will not imagine that you will be leſs concerned for God's Honour, than for your own.</p>
+            <p>It is a ſhameful thing to ſee how very much the High ways are generally neglected, and out of Repair; the fault of which does moſtly lye at the door of the Overſeers, whoſe chiefeſt care in them now a days, is how to ſhuffle off the matter for their time, being very little concerned for what comes after them; and by this means they bring at laſt a great burthen upon their Townſhips, which would have been prevented by a ſmall charge if but taken in time; and ſo the Townſhip ſuffers through their neglect.</p>
+            <p>There are very good Laws againſt Vaga<g ref="char:EOLhyphen"/>bonds, but the Execution of them is ſhame<g ref="char:EOLhyphen"/>fully neglected; and it is ſtrange it ſhould be ſo, conſidering what Incouragement the Law gives for the apprehending of ſuch idle People; For who ever brings any of thoſe Wanderers before a Juſtice of Peace?</p>
+            <pb n="26" facs="tcp:41511:16"/>
+            <p>The Towns through which they laſt paſt Unpuniſhed, is to Pay Two Shillings a piece to him that apprehended them. Though this Reward carry no weight with it, yet the great Miſchief that thoſe ſort of People bring upon the Publick, ſhould make every body vigilant.</p>
+            <p>It is an incredible Sum that they coſt the Nation in a year; and conſidering how many Townſhips and Pariſhes are oppreſſed, and almoſt ruined by the Accidents that are here<g ref="char:EOLhyphen"/>by brought upon them, it is wonderful that People ſhould rather chuſe to Forſwear them<g ref="char:EOLhyphen"/>ſelves, than do their Duty; but ſo it is in this Caſe.</p>
+            <p>Were theſe Wanderers duly Puniſhed, it would reform many of them, and diſcourage others from following ſo bad an example; whereas the great remiſneſs of Conſtables and other Officers in this point, is a great tempta<g ref="char:EOLhyphen"/>tion to many who otherwiſe would think of ſome more Lawful, as well as Profitable, ways of living: A neglect and ſlowneſs to Puniſh, increaſes the number of Offenders.</p>
+            <pb n="27" facs="tcp:41511:16"/>
+            <p>Theſe things, Gentlemen, I in particu<g ref="char:EOLhyphen"/>lar recommend to you, not as all your buſineſs, but yet as things that cry aloud for re<g ref="char:EOLhyphen"/>dreſs; for there does fall within your En<g ref="char:EOLhyphen"/>quiry, High-Treaſons, Petty-Treaſons, Fe<g ref="char:EOLhyphen"/>lonies of all ſorts, whether againſt the Per<g ref="char:EOLhyphen"/>ſon, Poſſeſſion, or Goods of a man: Riots, Routs, and unlawful Aſſemblies, and eve<g ref="char:EOLhyphen"/>ry thing that is an Offence againſt the Pub<g ref="char:EOLhyphen"/>lick Peace; in which I am not more par<g ref="char:EOLhyphen"/>ticular, becauſe I fear I have held you too long already; and therefore I will trouble you no farther, but pray God to direct you in your Buſineſs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:41511:17"/>
+            <head>BOOKS Printed for <hi>R. Baldwin.</hi>
+            </head>
+            <p>
+               <hi>ME<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourius Britannious:</hi> Or the New Obſervator. Containing Refle<g ref="char:EOLhyphen"/>ctions upon the moſt Remarkable Events falling out from time to time in <hi>Europe,</hi> and more particularly in <hi>England.</hi> The Fifth Volume. Printed for <hi>Rit. Baldwin;</hi> where are alſo to be had the <hi>Firſt, Second, Third</hi> and <hi>Fourth Volumes,</hi> with the <hi>Appendix</hi> to them.</p>
+            <p>The Speech of the Right Honourable <hi>Thomas,</hi> Earl of <hi>Stamford,</hi> Lord <hi>Gray</hi> of <hi>Gr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y,</hi> &amp;c. at the General Quarter-Seſſions held for the Coun<g ref="char:EOLhyphen"/>ty of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> at Michaelmas, 1691. His Lordſhip being made <hi>Guſtes Rot<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rum</hi> for the faid County, by the late Lord Commiſſioners of the Great Seal.</p>
+            <p>
+               <hi>Bibliotheca Politica;</hi> Or a Diſcourſe by way of Dialogue, <hi>Whether Ab<g ref="char:EOLhyphen"/>ſolute Non-Reſiſtance of the Supreme Powers be enjoined by the Doctrine of the Goſpel, and was the Ancient <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Primitive Church, and the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Doctrine of our Reformed Church of England.</hi> Collected out of the moſt approved Authors, both Ancient and Modern. <hi>Dialogue the Fourth.</hi> Printed for <hi>R. Baldwin;</hi> where alſo may be had the <hi>Firſt, Second,</hi> and <hi>Third Dialogues.</hi>
+            </p>
+            <p>A Project of a Deſcent upon <hi>France. By a Perſon of Quality.</hi>
+            </p>
+            <p>A True Relation of the Cruelties and Barbarities of the <hi>French</hi> upon the <hi>Engliſh</hi> Priſoners of War; being a Journal of their Travels from <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> to <hi>Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lon</hi> in <hi>Provence,</hi> and back again. With a De<g ref="char:EOLhyphen"/>ſcription of the Scituation and Fortifications of all the Eminent Towns upon the Road, and their Diſtance. Of their Priſons and Hoſpletals, and the number of men that died under their Cruelty; <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Europe</hi>'s Chains broke; or a ſure and ſpeedy <hi>Project</hi> to reſcue her from the preſent Uſurpations of the <hi>Tyrant</hi> of <hi>France.</hi>
+            </p>
+            <p>Reflections upon the late King <hi>James</hi>'s Declaration, lately Diſperſed by the <hi>Jacabites.</hi>
+            </p>
+            <p>
+               <hi>Truth brought to Light;</hi> or the Hiſtory of the firſt 14 years of King <hi>James</hi> I. In Four Parts. I. The happy ſtate of <hi>England</hi> at his Majeſty's En<g ref="char:EOLhyphen"/>trance; the corruption of it afterwards. With the Riſe of Particular Favourites, and the Diviſions between this and other States abroad. II. The Divorce betwixt the Lady <hi>Frances Howard,</hi> and <hi>Robert</hi> Earl of <hi>Eſ<g ref="char:EOLhyphen"/>ſex,</hi> before the King's Delegates, authorized under the King's Broad-Seal: As alſo the Arraignment of Sir <hi>Jer. Ellis,</hi> Lieutenant of the <hi>Tower, &amp;c.</hi> about the murther of Sir <hi>Tho. Overbury,</hi> with all Proceedings thereupon, and the King's gracious Pardon and Favour to the Coun<g ref="char:EOLhyphen"/>teſs. III. A Declaration of his Majeſty's Revenue ſince he came to the Crown of <hi>England;</hi> with the Annual Iſſues, Gifts, Penſions. and extraor<g ref="char:EOLhyphen"/>dinary Disburſements. IV. The Commiſſions and Warrants for the burning of two Hereticks, newly revived, with two Pardons, one for <hi>Theophilus Higgons,</hi> the other for Sir <hi>Euſtace Hart.</hi>
+            </p>
+            <p>A Sermon preached before the General and Officers, in the King's Chappel at <hi>Portſmouth,</hi> on <hi>Sunday, July</hi> 24. 1692. Being the day before they Embarqu'd for the Deſcent upon <hi>France.</hi> By <hi>Willam Gallaway,</hi> A.M. Chaplain to Their Majeſties Sea-Train of Artillery.</p>
+            <pb facs="tcp:41511:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
